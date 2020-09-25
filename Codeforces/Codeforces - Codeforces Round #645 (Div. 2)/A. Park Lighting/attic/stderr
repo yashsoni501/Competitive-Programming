@@ -1,0 +1,4 @@
+C:\Users\Yash Soni\Documents\Programs\Codeforces\Codeforces - Codeforces Round #645 (Div. 2)\A. Park Lighting\sol.cpp:37:5: error: stray '\314' in program
+     return a>b?a:b;̥
+     ^
+C:\Users\Yash Soni\Documents\Programs\Codeforces\Codeforces - Codeforces Round #645 (Div. 2)\A. Park Lighting\sol.cpp:37:5: error: stray '\245' in program
