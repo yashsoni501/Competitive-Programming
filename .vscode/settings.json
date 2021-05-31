@@ -6,6 +6,9 @@
         "chrono": "cpp",
         "algorithm": "cpp",
         "*.tcc": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "random": "cpp"
     }
 }
